@@ -140,7 +140,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True 
 EMAIL_HOST_USER = 'deebigarathinam470@gmail.com' 
-EMAIL_HOST_PASSWORD= 'nddg zdex ddsr idzr'
+EMAIL_HOST_PASSWORD= '#YOUR GOOGLE PASSWORD KEY#'
 
 # print("EMAIL_USER:", os.environ.get('EMAIL_USER'))
 # print("EMAIL_PASS:", os.environ.get('EMAIL_PASS'))
